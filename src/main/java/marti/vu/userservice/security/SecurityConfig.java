@@ -1,7 +1,7 @@
-package io.getarrays.userservice.security;
+package marti.vu.userservice.security;
 
-import io.getarrays.userservice.filter.CustomAuthenticationFilter;
-import io.getarrays.userservice.filter.CustomAuthorizationFilter;
+import marti.vu.userservice.filter.CustomAuthenticationFilter;
+import marti.vu.userservice.filter.CustomAuthorizationFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

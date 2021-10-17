@@ -1,4 +1,4 @@
-package io.getarrays.userservice.domain;
+package marti.vu.userservice.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

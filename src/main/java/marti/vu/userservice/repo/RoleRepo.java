@@ -1,6 +1,6 @@
-package io.getarrays.userservice.repo;
+package marti.vu.userservice.repo;
 
-import io.getarrays.userservice.domain.Role;
+import marti.vu.userservice.domain.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RoleRepo extends JpaRepository<Role, Long> {

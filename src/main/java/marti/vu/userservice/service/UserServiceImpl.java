@@ -1,9 +1,9 @@
-package io.getarrays.userservice.service;
+package marti.vu.userservice.service;
 
-import io.getarrays.userservice.domain.Role;
-import io.getarrays.userservice.domain.User;
-import io.getarrays.userservice.repo.RoleRepo;
-import io.getarrays.userservice.repo.UserRepo;
+import marti.vu.userservice.domain.Role;
+import marti.vu.userservice.domain.User;
+import marti.vu.userservice.repo.RoleRepo;
+import marti.vu.userservice.repo.UserRepo;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

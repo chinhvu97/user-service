@@ -1,4 +1,4 @@
-package io.getarrays.userservice.api;
+package marti.vu.userservice.api;
 
 import lombok.Data;
 

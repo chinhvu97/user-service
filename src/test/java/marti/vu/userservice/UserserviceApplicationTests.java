@@ -1,4 +1,4 @@
-package io.getarrays.userservice;
+package marti.vu.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

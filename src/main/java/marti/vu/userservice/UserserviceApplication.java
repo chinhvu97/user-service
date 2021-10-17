@@ -1,8 +1,8 @@
-package io.getarrays.userservice;
+package marti.vu.userservice;
 
-import io.getarrays.userservice.domain.Role;
-import io.getarrays.userservice.domain.User;
-import io.getarrays.userservice.service.UserService;
+import marti.vu.userservice.domain.Role;
+import marti.vu.userservice.domain.User;
+import marti.vu.userservice.service.UserService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

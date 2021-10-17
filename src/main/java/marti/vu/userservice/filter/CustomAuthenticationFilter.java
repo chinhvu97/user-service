@@ -1,4 +1,4 @@
-package io.getarrays.userservice.filter;
+package marti.vu.userservice.filter;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;

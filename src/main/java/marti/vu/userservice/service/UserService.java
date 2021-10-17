@@ -1,7 +1,7 @@
-package io.getarrays.userservice.service;
+package marti.vu.userservice.service;
 
-import io.getarrays.userservice.domain.Role;
-import io.getarrays.userservice.domain.User;
+import marti.vu.userservice.domain.Role;
+import marti.vu.userservice.domain.User;
 
 import java.util.List;
 

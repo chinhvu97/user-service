@@ -1,6 +1,6 @@
-package io.getarrays.userservice.repo;
+package marti.vu.userservice.repo;
 
-import io.getarrays.userservice.domain.User;
+import marti.vu.userservice.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
